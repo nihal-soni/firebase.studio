@@ -5,6 +5,7 @@ const Hero = () => {
                 <div className="text-center ">
                     <h1 className="text-white font-['Google Sans Display'] text-5xl font-display sm:text-7xl lg:text-9xl inline-block font-medium mb-7 leading-[0.99] tracking-[-1.44px] lg:tracking-[-3.72px] max-w-sm sm:max-w-lg lg:max-w-4xl">
                         The full stack
+                        {/* <span><img src="" alt="" /></span> */}
                         <span className="block text-8xl"> AI workspace </span>
                     </h1>
                 </div>
